@@ -1,0 +1,14 @@
+[project]
+name = "eventbus"
+version = "0.1.0"
+description = "eventbus for python, extract from github.com/jfhbrook/pyee"
+readme = "README.md"
+authors = [
+    { name = "xiaoshuai", email = "snapfire@qq.com" }
+]
+requires-python = ">=3.12.8"
+dependencies = []
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
